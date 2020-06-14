@@ -12,6 +12,7 @@ Springboot learnings
 8. sleuth Junit testing with Surefire reports
 9. Jacoco for code coverage 
 10 .Docker File
+11. Reactive webclient
 
 Create a spring boot project -> starter spring project
 Created base project structure
